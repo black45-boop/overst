@@ -22,11 +22,8 @@
 
 ```bash
 git clone https://github.com/black45-boop/overst.git
-cd OverSploit
-python3 -m venv venv
-source venv/bin/activate
+cd overst/oversploit
 pip install -r requirements.txt
 sudo python3 oversploit.py
- then enjoy
 Welcome to OverSploit. Type help or ? to list commands.
 
