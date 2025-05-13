@@ -21,7 +21,7 @@
 ### ✅ Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/OverSploit.git
+git clone https://github.com/black45-boop/overst
 cd OverSploit
 python3 -m venv venv
 source venv/bin/activate
